@@ -1,8 +1,12 @@
 QEH:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 PSC2:
  squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
 JMS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 EMM:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

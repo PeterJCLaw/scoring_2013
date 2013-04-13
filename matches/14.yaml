@@ -1,8 +1,12 @@
 HSO2:
  squares : [[0,2,0],[0,0,0],[0,0,0]]
+ move : true
 GMR:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 CPR:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 HZW:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

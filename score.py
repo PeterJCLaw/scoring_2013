@@ -37,9 +37,16 @@ class StrangeGameScorer:
                 self.winners[y][x] = self.cell_winner(x,y)
 
     def compute_game_score(self, letter):
-        return self.score_rows(letter) + self.score_columns(letter)
+        return self.score_rows(letter) \
+             + self.score_columns(letter) \
+             + self.score_movement(letter)
 
     #private functions below!
+
+    def score_movement(self, letter):
+        if self.raw_squares[letter].get('move', False):
+            return 1
+        return 0
 
     def score_columns(self, letter):
         score = 0
