@@ -1,8 +1,12 @@
 BWS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 MFG:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 BPV:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 QMC:
  squares : [[0,0,0],[0,0,0],['p',0,0]]
+ move : true
