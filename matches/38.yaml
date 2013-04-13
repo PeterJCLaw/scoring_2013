@@ -1,9 +1,13 @@
 PSC2:
  squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
 BRK:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
  dsq: true
 BAM:
  squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
 ALT:
  squares : [[0,0,0],[0,0,0],[1,0,0]]
+ move : true

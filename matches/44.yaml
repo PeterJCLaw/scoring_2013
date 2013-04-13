@@ -1,8 +1,12 @@
 PSC:
  squares : [[0,0,0],[1,0,0],[0,0,0]]
+ move : true
 STA:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 HSO:
  squares : [[0,0,0],[0,0,1],[0,0,0]]
+ move : true
 GRS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

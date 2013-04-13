@@ -1,8 +1,12 @@
 PLE:
  squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
 PSC:
  squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
 MFG:
  squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
 CPR:
  squares : [[0,0,0],[0,1,0],[0,0,0]]
+ move : true

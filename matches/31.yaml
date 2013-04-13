@@ -1,8 +1,12 @@
 BPV:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 BAM:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 EMM:
  squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
 CPR:
  squares : [[0,0,0],[0,0,0],[1,0,0]]
+ move : true
