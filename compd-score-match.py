@@ -59,6 +59,10 @@ for tla in scores.keys():
     this_score = scorer.compute_game_score(id_)
     print 'set-score {0} {1} {2}'.format(match_id, tla, this_score)
 
+for tla, dsqs in scores.iteritems():
+    if dsqs.get('dsq', False):
+        print 'disqualify {0} {1}'.format(match_id, tla)
+
 if style == 'league':
     print 'calc-league-points {0}'.format(match_id)
 #else:
