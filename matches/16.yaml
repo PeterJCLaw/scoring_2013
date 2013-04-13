@@ -1,9 +1,13 @@
 BAM:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 ALT:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 SWI:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 BRK:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
  dsq: true

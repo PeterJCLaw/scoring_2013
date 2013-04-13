@@ -1,8 +1,12 @@
 HRS:
  squares : [[0,0,0],[1,0,0],[0,0,0]]
+ move : true
 TWG:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 GRD:
  squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
 CRB:
  squares : [[0,0,0],[0,0,0],[1,0,0]]
+ move : true

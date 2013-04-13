@@ -1,10 +1,14 @@
 MAI:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
  dsq: true
 BGR:
  squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
 QEH:
  squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
 GRS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
  dsq: true
