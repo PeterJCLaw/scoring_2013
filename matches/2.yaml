@@ -1,8 +1,12 @@
 ALT:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 CRB:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 BAM:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 BRK:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
