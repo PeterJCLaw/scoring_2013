@@ -1,5 +1,5 @@
 #!/bin/bash
 
-/home/sphippen/scoring_2013/compd-score-match.py league $1 > nc localhost 18333
+/home/sphippen/scoring_2013/compd-score-match.py league $1 | nc localhost 18333
 /home/sphippen/scoring_2013/compd-score-match.py league $1
-./deploy-scores
+./deploy-league-and-schedule
