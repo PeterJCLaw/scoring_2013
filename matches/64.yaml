@@ -4,7 +4,7 @@ EMM:
 HZW:
  squares : [[0,0,2],[0,0,1],[0,0,0]]
  move : true
-GRO:
+GRD:
  squares : [[0,0,0],[0,0,0],[0,0,1]]
  move : true
 BWS:
