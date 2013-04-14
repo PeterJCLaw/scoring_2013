@@ -4,7 +4,7 @@ CRB:
 BWS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
  move : true
-PSC:
+PSC2:
  squares : [[0,0,0],[0,0,0],[0,0,1]]
  move : true
 BPV:
