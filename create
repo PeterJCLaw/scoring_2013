@@ -1,0 +1,3 @@
+#!/bin/bash
+sed matches/template.yaml -e "s/_0/$2/" -e "s/_1/$3/" -e "s/_2/$4/" -e "s/_3/$5/" > matches/$1.yaml
+geany matches/$1.yaml
