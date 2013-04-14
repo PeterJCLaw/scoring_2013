@@ -1,0 +1,11 @@
+TWG:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+JMS:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ dsq : true
+SEN2:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+CPR:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

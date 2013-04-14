@@ -1,0 +1,12 @@
+QMC:
+ squares : [[0,'p',0],[0,0,0],[0,0,0]]
+ move : true
+BGR:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
+EMM:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+BWS:
+ squares : [[0,0,0],[1,0,0],[1,0,0]]
+ move : true

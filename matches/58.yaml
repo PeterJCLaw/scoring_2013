@@ -1,0 +1,12 @@
+QMC:
+ squares : [[1,0,0],['p',0,0],[0,0,0]]
+ move : true
+BAM:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
+STA:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+QEH:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

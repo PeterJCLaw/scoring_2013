@@ -1,0 +1,12 @@
+STA:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+CLF:
+ squares : [[0,1,0],[0,0,0],[0,0,0]]
+ move : true
+HSO2:
+ squares : [[0,0,0],[0,0,0],[0,1,0]]
+ move : true
+GRS:
+ squares : [[0,0,0],[0,0,0],[1,0,0]]
+ move : true

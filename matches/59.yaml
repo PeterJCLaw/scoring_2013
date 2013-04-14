@@ -1,0 +1,11 @@
+PLE:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+SWI:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
+HRS2:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
+HSO2:
+ squares : [[0,0,1],[0,0,1],[0,0,4]]
+ move : true
