@@ -7,11 +7,13 @@ source dep/bin/activate
 echo "cd src"
 cd src
 echo "generate files"
+python display_game_points.py > /tmp/game-points
 python display_league.py > /tmp/league
 python display_schedule.py > /tmp/schedule
 python display_html_schedule.py > /tmp/short-schedule.html
 python display_leaders.py > /tmp/leaders.html
 echo "deploy to badger"
+scp /tmp/game-points        badger:/var/www/html/content/en/game-points
 scp /tmp/league             badger:/var/www/html/content/en/league
 scp /tmp/schedule           badger:/var/www/html/content/en/schedule
 scp /tmp/short-schedule.html    badger:/var/www/html/screens/match_sched.html
