@@ -9,5 +9,5 @@ HRS2:
  move : false
  dsq: true
 CLF:
- squares : [[0,0,0],[2,0,0],[0,0,0]]
+ squares : [[0,0,0],[2,0,0],[1,0,0]]
  move : true
