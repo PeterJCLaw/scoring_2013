@@ -1,0 +1,12 @@
+BWS:
+ squares : [[1,1,0],[0,0,0],[0,0,0]]
+ move : true
+MFG:
+ squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
+GMR:
+ squares : [[0,0,0],[0,0,1],[0,0,0]]
+ move : true
+MAI:
+ squares : [[0,0,0],[0,0,0],['p','p',0]]
+ move : true
