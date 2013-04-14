@@ -1,8 +1,12 @@
 BPV:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 HSO:
  squares : [[0,0,0],[0,0,1],[0,0,0]]
+ move : true
 PSC2:
  squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
 EMM:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false

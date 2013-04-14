@@ -1,8 +1,12 @@
 STA:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 BPV:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 SEN:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 HSO2:
  squares : [[1,0,0],[1,0,0],[0,0,0]]
+ move : false

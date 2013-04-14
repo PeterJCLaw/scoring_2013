@@ -1,8 +1,12 @@
 MFG:
  squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
 HZW:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 GRS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 SEN2:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

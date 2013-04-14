@@ -1,8 +1,12 @@
 PSC2:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 HSO2:
  squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
 PLE:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 CLY:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false

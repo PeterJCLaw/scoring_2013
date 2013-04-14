@@ -1,8 +1,12 @@
 GRS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 CPR:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 CLF:
  squares : [[0,0,1],[0,0,1],[0,0,1]]
+ move : true
 MAI:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

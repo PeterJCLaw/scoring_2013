@@ -1,9 +1,13 @@
 GMR:
  squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
 EMM:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 SEN:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
  dsq: true
 HRS:
  squares : [[0,0,0],[0,0,0],[1,1,0]]
+ move : true

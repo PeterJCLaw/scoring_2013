@@ -1,8 +1,12 @@
 PLE:
  squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
 STA:
  squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
 HZW:
  squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
 ALT:
  squares : [[0,0,0],[0,0,0],[1,0,0]]
+ move : true

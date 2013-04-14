@@ -1,8 +1,12 @@
 MFG:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 JMS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 BPV:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 EMM:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

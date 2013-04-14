@@ -1,9 +1,13 @@
 PLE:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
  dsq: true
 ALT:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 JMS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 HZW:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

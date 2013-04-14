@@ -1,8 +1,12 @@
 SEN:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 GRD:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 TWG:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 BAM:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false

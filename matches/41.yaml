@@ -1,8 +1,12 @@
 HRS2:
  squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
 CPR:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 GRS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
 SWI:
  squares : [[0,0,0],[0,0,0],[1,0,0]]
+ move : true

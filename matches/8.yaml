@@ -1,9 +1,13 @@
 HRS:
- squares : [[0,0,0],[0,0,0],[0,0,0]]
+ squares : [[0,0,0],[1,0,0],[0,0,0]]
+ move : true
 HZW:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
 JMS:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : false
  dsq: true
 QMC:
  squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
