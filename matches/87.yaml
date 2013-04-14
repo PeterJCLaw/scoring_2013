@@ -1,0 +1,11 @@
+STA:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+CRB:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
+SEN2:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+HRS:
+ squares : [[0,0,0],[0,1,0],[0,0,0]]
+ move : true

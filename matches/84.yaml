@@ -1,0 +1,11 @@
+GMR:
+ squares : [['p',0,0],[0,0,0],[0,0,0]]
+ move : true
+JMS:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ dsq : true
+GRD:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+MAI:
+ squares : [[0,0,0],['p',0,0],['p',0,0]]
+ move : true
