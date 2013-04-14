@@ -1,0 +1,12 @@
+BPV:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+CLF:
+ squares : [[0,1,1],[0,0,0],[0,0,0]]
+ move : true
+STA:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+PLE:
+ squares : [[0,0,0],[0,0,0],[1,0,0]]
+ move : true

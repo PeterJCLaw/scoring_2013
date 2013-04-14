@@ -1,0 +1,11 @@
+BGR:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
+CRB:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+QEH:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+SWI:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
