@@ -1,0 +1,12 @@
+CLY:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+BPV:
+ squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
+CLF:
+ squares : [[0,0,0],[0,1,0],[0,0,2]]
+ move : true
+HSO:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true

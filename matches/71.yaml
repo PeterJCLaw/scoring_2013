@@ -1,0 +1,12 @@
+CRB:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+JMS:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ dsq : true
+QMC:
+ squares : [[0,0,0],[0,0,0],[0,0,'p']]
+ move : true
+CLF:
+ squares : [[0,0,0],[0,0,0],[1,2,0]]
+ move : true

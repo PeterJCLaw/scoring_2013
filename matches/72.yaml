@@ -1,0 +1,11 @@
+PSC2:
+ squares : [[1,1,0],[0,0,0],[0,0,0]]
+ move : true
+EMM:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+GRS:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+HSO2:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
