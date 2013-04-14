@@ -1,0 +1,12 @@
+PLE:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+QMC:
+ squares : [[0,0,'p'],[0,0,0],[0,0,0]]
+ move : true
+CPR:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+SWI:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
