@@ -1,0 +1,12 @@
+BGR:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
+CLF:
+ squares : [[0,0,2],[0,0,0],[0,0,0]]
+ move : true
+MFG:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+GMR:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

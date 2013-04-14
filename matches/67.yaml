@@ -1,0 +1,12 @@
+SEN2:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+GRS:
+ squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
+BRK:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
+ALT:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true

@@ -1,0 +1,12 @@
+EMM:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+HZW:
+ squares : [[0,0,2],[0,0,1],[0,0,0]]
+ move : true
+GRO:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+BWS:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
