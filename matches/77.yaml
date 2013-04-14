@@ -1,0 +1,12 @@
+CLF:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+HRS2:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+ move : true
+BWS:
+ squares : [[0,0,0],[0,1,0],[0,0,1]]
+ move : true
+HRS:
+ squares : [[0,0,0],[0,0,0],[0,1,0]]
+ move : true

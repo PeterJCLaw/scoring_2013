@@ -1,0 +1,11 @@
+PLE:
+ squares : [[0,0,0],[0,0,0],[0,0,0]]
+HZW:
+ squares : [[0,0,2],[0,0,0],[0,0,0]]
+ move : true
+MAI:
+ squares : [[0,0,0],[0,0,0],[0,'p','p']]
+ move : true
+GMR:
+ squares : [[0,0,0],[0,0,0],[1,0,0]]
+ move : true
