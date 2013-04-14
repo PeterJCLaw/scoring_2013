@@ -9,7 +9,7 @@ import score
 MATCH_ID = 'match-{0}'
 
 def usage():
-    print "Usage: score-match.py (league|knockout) MATCH_NUMBER"
+    print "Usage: compd-score-match.py (league|knockout) MATCH_NUMBER"
     print "  Scores the match file at matches/MATCH_NUMBER.yaml"
     print "  Outputs scoring format suitable for piping at compd"
 
