@@ -1,0 +1,14 @@
+PSC2:
+ squares : [[1,0,0],[0,0,0],[0,0,0]]
+ move : true
+JMS:
+ # someone, possibly SEN2, played in the wrong match
+ squares : [[0,0,1],[0,0,0],[0,0,0]]
+ move : true
+ dsq : true
+CRB:
+ squares : [[0,0,0],[0,0,0],[0,0,1]]
+ move : true
+QEH:
+ squares : [[0,0,0],[0,0,0],['p',0,0]]
+ move : true
