@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+from collections import defaultdict
 import os
 import sys
 import yaml
@@ -54,9 +55,12 @@ scorer.compute_cell_winners()
 
 match_id = MATCH_ID.format(match_num)
 
+results = defaultdict(list)
+
 for tla in scores.keys():
     id_ = tla_id_mapping[tla]
     this_score = scorer.compute_game_score(id_)
+    results[this_score].append(tla)
     print 'set-score {0} {1} {2}'.format(match_id, tla, this_score)
 
 for tla, dsqs in scores.iteritems():
@@ -65,6 +69,18 @@ for tla, dsqs in scores.iteritems():
 
 if style == 'league':
     print 'calc-league-points {0}'.format(match_id)
-#else:
-#    # Knockout
-#    print 'update-knockout-after {0}'.format(match_id)
+else:
+    # Knockout
+    pos = 1
+    n = 1
+    last_pts = 0
+    for pts in sorted(results.keys(), reverse=True):
+        teams = results[pts]
+        for team in teams:
+            if pts == last_pts:
+                pos = ' '
+            else:
+                pos = n
+                last_pts = pts
+            print >> sys.stderr, "{0}: {1}, scored {2}".format(pos, team, pts)
+            n += 1
