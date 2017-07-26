@@ -1,4 +1,4 @@
-# SRobo2013 Scorer
+# Student Robotics 2013 Scorer
 
 This is a script to do scores for the [Student Robotics](http://srobo.org) 2013
 game entitled 'A Strange Game'.
