@@ -1,4 +1,4 @@
-#SRobo2013 Scorer
+# SRobo2013 Scorer
 
 This is a script to do scores for the [Student Robotics](http://srobo.org) 2013
 game entitled 'A Strange Game'.
@@ -9,7 +9,7 @@ The entries in the tokens files are the token counts
  for the given robot.
 
 Example:
-~~~~
+~~~~ bash
 python scores.py valid_scorecards/tokens.yml
 ~~~~
 
@@ -21,6 +21,6 @@ number. This then reads the yaml file for that match, which is stored at
 file `matches/example.yaml`.
 
 Example:
-~~~~
+~~~~ bash
 ./compd-score-match.py league 2
 ~~~~
